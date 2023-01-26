@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.1.23)  23 JAN 2023 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.3)  25 JAN 2023 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CW1.tex
-(./CW1.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-10>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+**./cw1.tex
+(cw1.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size11.clo
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,99 +23,115 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count193
 )
 \@linkdim=\dimen139
-\Hy@linkcounter=\count193
-\Hy@pagecounter=\count194
-
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count194
+\Hy@pagecounter=\count195
+ (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count195
-
-(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count196
+ (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count196
+\stockwidth=\dimen140
+\stockheight=\dimen141
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count197
 
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen140
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen142
 
-(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count197
-\Field@Width=\dimen141
-\Fld@charsize=\dimen142
+\Fld@menulength=\count198
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -123,242 +139,240 @@ Package hyperref Info: backreferencing OFF on input line 6042.
 Package hyperref Info: Link coloring OFF on input line 6047.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
 
-(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count198
-\c@Item=\count199
-\c@Hfootnote=\count266
+\Hy@abspage=\count199
+\c@Item=\count266
+\c@Hfootnote=\count267
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
 
-(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
-
-(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count267
-\c@bookmark@seq@number=\count268
+\Fld@listcount=\count268
+\c@bookmark@seq@number=\count269
 
-(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
 \Hy@SectionHShift=\skip49
 )
-(/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count269
-\lst@gtempboxa=\box50
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count270
+\lst@gtempboxa=\box51
 \lst@token=\toks17
-\lst@length=\count270
-\lst@currlwidth=\dimen143
-\lst@column=\count271
-\lst@pos=\count272
-\lst@lostspace=\dimen144
-\lst@width=\dimen145
-\lst@newlines=\count273
-\lst@lineno=\count274
-\lst@maxwidth=\dimen146
+\lst@length=\count271
+\lst@currlwidth=\dimen145
+\lst@column=\count272
+\lst@pos=\count273
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count274
+\lst@lineno=\count275
+\lst@maxwidth=\dimen148
 
-(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count275
-\lst@skipnumbers=\count276
-\lst@framebox=\box51
+\c@lstnumber=\count276
+\lst@skipnumbers=\count277
+\lst@framebox=\box52
 )
-(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-)
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(/usr/share/texmf-dist/tex/latex/subfig/subfig.sty
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
-(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen147
-\captionmargin=\dimen148
-\caption@leftmargin=\dimen149
-\caption@rightmargin=\dimen150
-\caption@width=\dimen151
-\caption@indent=\dimen152
-\caption@parindent=\dimen153
-\caption@hangindent=\dimen154
+\caption@tempdima=\dimen149
+\captionmargin=\dimen150
+\caption@leftmargin=\dimen151
+\caption@rightmargin=\dimen152
+\caption@width=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count277
-\c@continuedfloat=\count278
+\c@caption@flags=\count278
+\c@continuedfloat=\count279
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
-\c@KVtest=\count279
+\c@KVtest=\count280
 \sf@farskip=\skip50
-\sf@captopadj=\dimen155
+\sf@captopadj=\dimen157
 \sf@capskip=\skip51
 \sf@nearskip=\skip52
-\c@subfigure=\count280
-\c@subfigure@save=\count281
-\c@lofdepth=\count282
-\c@subtable=\count283
-\c@subtable@save=\count284
-\c@lotdepth=\count285
+\c@subfigure=\count281
+\c@subfigure@save=\count282
+\c@lofdepth=\count283
+\c@subtable=\count284
+\c@subtable@save=\count285
+\c@lotdepth=\count286
 \sf@top=\skip53
 \sf@bottom=\skip54
-)
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 )
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count286
-\Gm@cntv=\count287
-\c@Gm@tempcnt=\count288
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
 \Gm@dimlist=\toks20
-)
-(/usr/share/texmf-dist/tex/latex/psnfss/mathpazo.sty
+
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen164
-\ar@mcellbox=\box52
-\extrarowheight=\dimen165
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box53
+\extrarowheight=\dimen167
 \NC@list=\toks21
 \extratabsurround=\skip55
 \backup@length=\skip56
-\ar@cellbox=\box53
+\ar@cellbox=\box54
 )
-(/usr/share/texmf-dist/tex/latex/float/float.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count289
+\c@float@type=\count290
 \float@exts=\toks22
-\float@box=\box54
+\float@box=\box55
 \@float@everytoks=\toks23
-\@floatcapt=\box55
+\@floatcapt=\box56
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen166
-\Gin@req@width=\dimen167
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
 )
-(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
 
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count290
-\calc@Bcount=\count291
-\calc@Adimen=\dimen168
-\calc@Bdimen=\dimen169
+\calc@Acount=\count291
+\calc@Bcount=\count292
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
 \calc@Askip=\skip57
 \calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count292
+\calc@Ccount=\count293
 \calc@Cskip=\skip59
 )
-(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen170
-\ESO@tempdimb=\dimen171
+\ESO@tempdima=\dimen172
+\ESO@tempdimb=\dimen173
 )
-\AM@pagewidth=\dimen172
-\AM@pageheight=\dimen173
-\AM@fboxrule=\dimen174
+\AM@pagewidth=\dimen174
+\AM@pageheight=\dimen175
+\AM@fboxrule=\dimen176
 
-(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count293
-\AM@pagebox=\box56
+\pdfpages@includegraphics@status=\count294
+\AM@pagebox=\box57
 \AM@global@opts=\toks24
-\AM@pagecnt=\count294
+\AM@pagecnt=\count295
 \AM@toc@title=\toks25
-\c@AM@survey=\count295
-\AM@templatesizebox=\box57
-)
-(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+\AM@lof@heading=\toks26
+\c@AM@survey=\count296
+\AM@templatesizebox=\box58
+) (C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip60
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count296
+\c@NAT@ctr=\count297
 )
-(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip62
 \f@nch@O@elh=\skip63
 \f@nch@O@erh=\skip64
@@ -369,88 +383,75 @@ rs
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
 )
-(/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count297
+\etb@tempcnta=\count298
 ))
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 56
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 57
 .
-
-(/usr/share/texmf-dist/tex/latex/psnfss/t1ppl.fd
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-\l__pdf_internal_box=\box58
-) (./CW1.aux)
-\openout1 = `CW1.aux'.
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box59
+) (cw1.aux)
+\openout1 = `cw1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-Package hyperref Info: Link coloring OFF on input line 56.
-
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count299
-)
-LaTeX Info: Redefining \ref on input line 56.
-LaTeX Info: Redefining \pageref on input line 56.
-LaTeX Info: Redefining \nameref on input line 56.
-
-(./CW1.out) (./CW1.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+Package hyperref Info: Link coloring OFF on input line 57.
+ (cw1.out) (cw1.out)
 \@outlinefile=\write3
-\openout3 = `CW1.out'.
+\openout3 = `cw1.out'.
 
 \c@lstlisting=\count300
 
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count301
-\scratchdimen=\dimen175
-\scratchbox=\box59
+\scratchdimen=\dimen177
+\scratchbox=\box60
 \nofMPsegments=\count302
 \nofMParguments=\count303
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks27
 \MPscratchCnt=\count304
-\MPscratchDim=\dimen176
+\MPscratchDim=\dimen178
 \MPnumerator=\count305
 \makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks27
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -491,65 +492,63 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\big@size=\dimen177
-(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-
-(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
+\big@size=\dimen179
+(pdflscape.sty)
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 60.
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 61.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 61.
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 62.
 
-</home/queenofplaza/Documents/CW1 Robotics/images/mdx1.jpg, id=40, 803.0pt x 51
-9.9425pt>
-File: /home/queenofplaza/Documents/CW1 Robotics/images/mdx1.jpg Graphic file (t
-ype jpg)
-<use /home/queenofplaza/Documents/CW1 Robotics/images/mdx1.jpg>
-Package pdftex.def Info: /home/queenofplaza/Documents/CW1 Robotics/images/mdx1.
-jpg  used on input line 72.
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/mdx1.jpg, id=63, 803.0pt x 519
+.9425pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/mdx1.jpg Graphic file (ty
+pe jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/mdx1.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/mdx1.j
+pg  used on input line 73.
 (pdftex.def)             Requested size: 216.81pt x 140.38635pt.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 9
-9.
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+00.
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-99.
+100.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-99.
+100.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/omszplm.fd
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-99.
+100.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-99.
+100.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [1
+)
+[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/queenofplaza/Documen
-ts/CW1 Robotics/images/mdx1.jpg>] (./CW1.toc)
+{C:/Users/Silvi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/Sil
+vi/OneDrive/Desktop/Robotics/images/mdx1.jpg>] (cw1.toc)
 \tf@toc=\write4
-\openout4 = `CW1.toc'.
+\openout4 = `cw1.toc'.
 
 
 
@@ -565,11 +564,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.128 	\newpage
+l.129 	\newpage
                 [1]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-60.
- (/usr/share/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+44.
+
+(C:\Users\Silvi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 
@@ -581,6 +581,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [2]
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot.jpg, id=95, 1204.5pt x 6
+30.355pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot.jpg Graphic file (t
+ype jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot.
+jpg  used on input line 167.
+(pdftex.def)             Requested size: 346.89732pt x 181.53825pt.
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot2.jpg, id=96, 463.7325pt 
+x 464.33475pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot2.jpg Graphic file (
+type jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot2.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot2
+.jpg  used on input line 181.
+(pdftex.def)             Requested size: 199.46811pt x 199.7309pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -589,7 +606,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]
+[3 <C:/Users/Silvi/OneDrive/Desktop/Robotics/images/robot.jpg> <C:/Users/Silvi/
+OneDrive/Desktop/Robotics/images/robot2.jpg>]
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/fsm1.jpg, id=103, 963.6pt x 54
+2.025pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/fsm1.jpg Graphic file (ty
+pe jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/fsm1.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/fsm1.j
+pg  used on input line 208.
+(pdftex.def)             Requested size: 260.17465pt x 146.3487pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -598,7 +625,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4]
+[4 <C:/Users/Silvi/OneDrive/Desktop/Robotics/images/fsm1.jpg>]
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/workinginstallation.jpg, id=10
+9, 327.02174pt x 404.712pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/workinginstallation.jpg G
+raphic file (type jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/workinginstallation.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/workin
+ginstallation.jpg  used on input line 267.
+(pdftex.def)             Requested size: 346.89732pt x 429.33232pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -616,7 +652,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6]
+[6 <C:/Users/Silvi/OneDrive/Desktop/Robotics/images/workinginstallation.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]|\T1/ppl/m/n/10.95 FRaspberry Pi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\T1/ppl/m/n/10.95 High Qual-ity
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -634,25 +679,70 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8] (./CW1.aux)
-Package rerunfilecheck Info: File `CW1.out' has not changed.
-(rerunfilecheck)             Checksum: 87C911E46DE1CC1AEA270EF8658D65A6;1135.
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9]
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv.jpg, id=132, 569.7285pt
+ x 419.76825pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv.jpg Graphic file (
+type jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv
+.jpg  used on input line 434.
+(pdftex.def)             Requested size: 433.62001pt x 319.48834pt.
+<C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv1.jpg, id=133, 308.352pt
+ x 142.73325pt>
+File: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv1.jpg Graphic file 
+(type jpg)
+<use C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv1.jpg>
+Package pdftex.def Info: C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv
+1.jpg  used on input line 446.
+(pdftex.def)             Requested size: 346.89732pt x 160.57884pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10 <C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11 <C:/Users/Silvi/OneDrive/Desktop/Robotics/images/opencv1.jpg>] (cw1.aux)
+Package rerunfilecheck Info: File `cw1.out' has not changed.
+(rerunfilecheck)             Checksum: 0BA81D77B2C4F2152352BC82237D28EB;2000.
  ) 
 Here is how much of TeX's memory you used:
- 14246 strings out of 478238
- 223654 string characters out of 5850456
- 632256 words of memory out of 5000000
- 32264 multiletter control sequences out of 15000+600000
+ 14357 strings out of 475380
+ 232052 string characters out of 2776772
+ 688156 words of memory out of 3000000
+ 35498 multiletter control sequences out of 15000+600000
  495725 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,523b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatin
-o/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CW1.pdf (9 pages, 95147 bytes).
+ 72i,12n,79p,526b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Silvi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/Silvi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb>
+<C:/Users/Silvi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.p
+fb><C:/Users/Silvi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri
+8a.pfb>
+Output written on cw1.pdf (12 pages, 396332 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
