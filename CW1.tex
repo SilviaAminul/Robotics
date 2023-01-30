@@ -158,8 +158,7 @@
 	
 	
 	\section{Background Research}
-In this section similar robots by others will be reviewed.
-
+In this section will review that robots in the market that are similar in concept. This section will also include examining the different approaches taken to build a mosquito zapper  in research papers.
  	\subsection{LeiShen's Mosquito Zapper}
  	  \begin{center}
  	\begin{figure}[H]
@@ -184,10 +183,33 @@ In this section similar robots by others will be reviewed.
 	\end{figure}
 \end{center}
 
-Although a robot vacuum is different from a mosquito zapper the concept is similar. This mosquito zapper shoul be able to roam around room autonomously just like the vacuum and avoid obstacles or have a hard encasing to control damage on the hardware. It 
+Although a robot vacuum is different from a mosquito zapper the concept is similar. This mosquito zapper should be able to roam around room autonomously just like the vacuum and avoid obstacles or have a hard encasing to control damage on the hardware. It 
 
+\subsection{OpenCV}
 
-
+ In one similar experiment, found that using OpenCV solely to using a tracker function to track the movement of a mosquito in different methods did not give the greatest results. 
+ \begin{center}
+ 	
+ 	
+ 	\begin{figure}[H]
+ 		\centering
+ 		\includegraphics[width=1\linewidth]{opencv.jpg}
+ 		
+ 		\label{fig:opencv}
+ 	\end{figure}
+ \end{center}
+ As seen in the figure above the mosquito in one of the methods cannot be detected at all, however by using an image processing function called Thresholding ON A 2-4mm sized mosquitoes gave drastically different results:
+ 
+ \begin{center}
+ 	
+ 	
+ 	\begin{figure}[H]
+ 		\centering
+ 		\includegraphics[width=0.8\linewidth]{opencv1.jpg}
+ 		
+ 		
+ 	\end{figure}
+ \end{center}
  
 
  	
@@ -205,37 +227,34 @@ Although a robot vacuum is different from a mosquito zapper the concept is simil
  		
  		\begin{figure}[H]
  			\centering
- 			\includegraphics[width=0.6\linewidth]{fsm1.jpg}
+ 			\includegraphics[width=0.6\linewidth]{Include hardware level structure .jpg}
  			\caption{An autonomous mosquito zapper robot roaming }
  			\label{fig:robot}
  		\end{figure}
  	\end{center}
  	
  	
- 	\subsection{Making the circuit}
- 	
- 	
- 	This section will provide the necessary electrical energy to power the laser, servo motor and other components.
-Power supply voltage: The voltage of the power supply will determine the voltage of the electrical energy available to the circuit, and will affect the performance and power consumption of the components in the circuit.
 
-Component voltage ratings: Each component in the circuit will have a rated voltage, which is the maximum voltage that the component can safely handle. You will need to ensure that the power supply voltage and the voltages applied to the components in the circuit are within the rated voltages of the components.
-
-Current ratings: Each component in the circuit will also have a current rating, which is the maximum current that the component can safely handle. You will need to ensure that the current flowing through the components in the circuit is within the rated currents of the components, to prevent damage and overheating.
-
-Resistance and impedance: The resistance and impedance of the components in the circuit will affect the flow of current and the voltage applied to the components. You will need to consider these variables when designing the circuit to ensure that the components are operating within their safe limits.
  
- 	 	\subsection{Connecting the Hardware}
+ 	 	\subsection{Steps in Connecting the Hardware}
+ 	 	
+ 	 	The camera and sensors (Ultrasonic sensor for obstacle avoidance) can be connected to the control system with the  right cables, upon receiving a location and movement information input the control system can use the data to adjust the robots movement and adjust the laser's aim.
  	
- 	Connect the camera and other sensors to the control system, using appropriate cables and interfaces. This will allow the control system to receive input from the sensors and use this information to control the robot's movements and laser.
+ 	When executing this project a decision must be made on what type component should be used to reposition the laser's aim when a mosquito is detected. One can use a servo motor or a robotic arm, in this project the proposed component is a servo motor.
  	
- 	Connect the servo motor or robotic arm to the control system, using appropriate cables and interfaces. This will allow the control system to control the movement of the servo motor or robotic arm, and thus aim the laser at the detected mosquitoes.
  	
- 	Connect the laser to the control system, using appropriate cables and interfaces. This will allow the control system to control the firing of the laser, and kill the detected mosquitoes on contact.
- 	
- 	Test the circuit to ensure that all of the components are working together as intended, and make any necessary adjustments or repairs.
- 	
+
+
+ The laser connected to the servo motor or robotic arm should then be connected to the control system with the right cables, the purpose of the laser is aim and kill mosquitoes detected from a calculated direction from the coordinates received from the camera.
  
- 	The calculation required to move the servo in an appropriate way to point towards the mosquito is usually dependant on the  design of the robot, however in this project  the location and movement information of the detected mosquito provided by the camera and image processing algorithms will be used to calculate the necessary angle and direction for the servo motor or robotic arm to move the laser.
+ To ensure the system is working the circuit should be tested at this point and make further adjustments.
+ 	One adjustment required will be the calculation of the laser's's aim when pointing at the mosquito, this is going to be dependant on the robot's design in terms of size and distance from the camera. To detect mosquitoes the camera is going to use image processing function, given the placement of the laser and the camera  on the chassis is going to be different from each other, the camera's coordinates on the detected mosquitoes is not going to allow the laser to aim correctly, therefore an angle direction will be need to be adjusted in the servo motor to point the laser correctly.
+ 	
+ 	
+ 	To calculate this, the 
+
+ 
+ 
  	
  	For example, if your robot uses a servo motor to aim the laser, you can use the location of the detected mosquito relative to the center of the camera's field of view to calculate the angle at which the servo motor needs to move the laser. This can be done using basic trigonometry, by calculating the angles formed by the lines connecting the center of the camera's field of view, the location of the detected mosquito, and the servo motor axis.
  	
@@ -424,31 +443,7 @@ Overall, the key to making the laser move according to the camera is to use a co
 	
 	
 	
-	\section{Brief Review And Analysis}
-	In one similar experiment, found that using OpenCV solely to using a tracker function to track the movement of a mosquito in different methods did not give the greatest results. 
-	\begin{center}
-		
-		
-		\begin{figure}[H]
-			\centering
-			\includegraphics[width=1\linewidth]{opencv.jpg}
-			
-			\label{fig:opencv}
-		\end{figure}
-	\end{center}
-	As seen in the figure above the mosquito in one of the methods cannot be detected at all, however by using an image processing function called Thresholding ON A 2-4mm sized mosquitoes gave drastically different results:
-	
-	\begin{center}
-		
-		
-		\begin{figure}[H]
-			\centering
-			\includegraphics[width=0.8\linewidth]{opencv1.jpg}
-			
-			
-		\end{figure}
-	\end{center}
-	
+
 	
 	
 	\section{Conclusion}
